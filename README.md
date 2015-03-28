@@ -9,6 +9,12 @@ Dans une page HTML, simplement ajouter le script :
 
     <script src="hypo.js"></script>
 
+Dans Node.js, ajouter :
+
+    require('./Hypo.js');
+
+(à tester parce je n'ai jamais réellement utilisé Node.js)
+
 
 Fonctions présentes dans la librairie :
 -------------
