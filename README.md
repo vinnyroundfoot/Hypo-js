@@ -3,6 +3,13 @@
 
 **Hypo.js** est une librairie Javascript reprenant un ensemble de fonctions financières utilisées dans le cadre de prêt hypothécaire ou à tempérament
 
+Installation
+------------
+Dans une page HTML, simplement ajouter le script :
+
+||| <script src="hypo.js"></script>
+
+
 Fonctions présentes dans la librairie :
 -------------
 
