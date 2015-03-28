@@ -1,9 +1,11 @@
 /**
 * Librairie : Hypo
-* Description : Répertoire de fonctions de mathématiques financières, spécialemen orientée vers les emprunts
-* Version : 0.1a
+* Description : Répertoire de fonctions de mathématiques financières, spécialement orientée vers les emprunts et placements
+* Version : 1.0
 * Auteur : VinnyRoundfoot
+* GitHub : https://github.com/vinnyroundfoot/Hypo-js
 * Date : mars 2015
+* 
 */
 (function (alias) {
 
@@ -11,7 +13,8 @@
         root = this,
         alias1;
         
-    Hypo.VERSION = '0.2';
+    Hypo.VERSION = '1.0';
+    Hypo.AUTHOR = 'VinnyRoundfoot';
 
     if (typeof alias === "string" && alias.length > 0) {
         alias1 = alias;
