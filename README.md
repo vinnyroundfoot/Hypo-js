@@ -7,7 +7,7 @@ Installation
 ------------
 Dans une page HTML, simplement ajouter le script :
 
-||| <script src="hypo.js"></script>
+    <script src="hypo.js"></script>
 
 
 Fonctions présentes dans la librairie :
