@@ -881,4 +881,10 @@
           }
         }
     }
+    
+    //ajouté le bout de code suivant pour que Hypo puisse être utilisé directement comme un module par require.js
+    if ("function" == typeof define && define.amd && define("hypo", [], function() {
+        return Hypo;
+    }));
+
 })();
